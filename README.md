@@ -1,7 +1,7 @@
 # Tugas-Vektor-Python
-Matkul        : Alajabr Linear & Matriks
-Prodi         : D4 Alih Kredit TRPL
-Created with  : https://colab.research.google.com/
+Matkul Alajabr Linear & Matriks </br>
+Prodi D4 Alih Kredit TRPL </br>
+Created with https://colab.research.google.com/
 
 1. Soal: Diberikan tiga vektor, r = [1,1], b1 = [2,1] dan b2 = [-1,2]. Semua ditulis dalam bentuk basis standar.
 a. Tunjukkan bahwa b1 dan b2 adalah saling ortogonal (saling tegak lurus).
